@@ -7,6 +7,7 @@ Software Engineer
 I am a passionate technology enthusiast whose journey began in elementary school and continued through university, where I majored in Informatics Engineering. My goal is to harness the power of the digital world to create real-world impact—both for enjoyment and as a source of income. I started my university studies in 2017 and graduated in 2021. Since then, I have been working professionally as a backend engineer, gaining extensive knowledge in both infrastructure and application development.
 
 *   🌍  I'm based in Indonesian
+*   🚀  I'm currently active at [Kartala.id](https://kartala.id/)
 *   ✉️  You can contact me at [hendros354@gmail.com](mailto:hendros354@gmail.com)
 *   🧠  I'm learning golang, flutter
 *   🤝  I'm open to collaborating on backend, blockchain, web3, web2, IoT, DL, ML, AI
