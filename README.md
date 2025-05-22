@@ -63,8 +63,8 @@ I am a passionate technology enthusiast whose journey began in elementary school
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/alohdr">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="120" alt="Buy Me A Coffee"/>
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me A Coffee"/>
 </a>
 <a href="https://www.ko-fi.com/alohdr">
-  <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="120" alt="Ko-fi"/>
+  <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150" alt="Ko-fi"/>
 </a>
