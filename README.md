@@ -20,13 +20,27 @@ I am a passionate technology enthusiast whose journey began in elementary school
                     
 ### Socials
 
-[![Discord](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg)](https://discord.com/users/alohdr)
-[![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)](https://www.github.com/alohdr)
-[![GitLab](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg)](https://www.gitlab.com/alohdr)
-[![Instagram](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg)](http://www.instagram.com/hendros004)
-[![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/hendro-susilo-03b790202/)
-[![X](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg)](https://www.x.com/alow_004)
-[![Threads](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg)](https://www.threads.net/@hendros004)
+<a href="https://discord.com/users/alohdr">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="24" />
+</a>
+<a href="https://www.github.com/alohdr">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="24" />
+</a>
+<a href="https://www.gitlab.com/alohdr">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="24" />
+</a>
+<a href="http://www.instagram.com/hendros004">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="24" />
+</a>
+<a href="https://www.linkedin.com/in/hendro-susilo-03b790202/">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="24" />
+</a>
+<a href="https://www.x.com/alow_004">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="24" />
+</a>
+<a href="https://www.threads.net/@hendros004">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="24" />
+</a>
 
 ---
 
