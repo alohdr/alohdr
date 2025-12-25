@@ -100,19 +100,6 @@
 
 <br/>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alohdr&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" height="150" alt="alohdr's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alohdr&layout=compact&langs_count=6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" height="150" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alohdr&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Streak Stats" />
-</div>
-
-<br/>
-
 <h2 align="center">🌐 Connect With Me</h2>
 
 <div align="center">
